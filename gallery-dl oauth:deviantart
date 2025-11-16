@@ -1,0 +1,11 @@
+gallery-dl oauth:deviantart
+{
+    "extractor": {
+        "deviantart": {
+            "client-id": "your_client_id_here",
+            "client-secret": "your_client_secret_here",
+            "access-token": "your_access_token_here",
+            "refresh-token": "your_refresh_token_here"
+        }
+    }
+}gallery-dl "https://www.deviantart.com/alerKina2/gallery"
